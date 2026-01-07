@@ -81,7 +81,7 @@
   </style>
 </head>
 <body>
-  <h1>Exemple de cartes pour L'Histoire</h1>
+  <h1>Exemple de cartes pour Histoire</h1>
   <div class="gallery" id="gallery"></div>
 
   <div id="overlay">
